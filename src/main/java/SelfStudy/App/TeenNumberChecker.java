@@ -1,4 +1,4 @@
-package ja;
+package SelfStudy.App;
 
 public class TeenNumberChecker {
     public static void main(String[] args) {

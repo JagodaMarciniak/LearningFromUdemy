@@ -1,4 +1,4 @@
-package ja;
+package SelfStudy.App;
 
 public class MinutesToSeconds {
     public static final String INVALID_VALUE_MESSAGE = "Invalid value";

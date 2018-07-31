@@ -1,4 +1,4 @@
-package ja;
+package SelfStudy.App;
 
 public class BarkingDog {
     public static void main(String[] args) {

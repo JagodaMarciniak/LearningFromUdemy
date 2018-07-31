@@ -1,4 +1,4 @@
-package ja;
+package SelfStudy.App;
 
 public class AreaCalculator {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ja;
+package SelfStudy.App;
 
 import java.util.Scanner;
 
